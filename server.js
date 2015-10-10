@@ -1,3 +1,5 @@
+/* global db */
+/* global app */
 'use strict';
 
 var express = require('express');

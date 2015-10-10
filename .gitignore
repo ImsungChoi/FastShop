@@ -9,3 +9,8 @@ bower_components
 files/434x772
 files/204x362
 fastshop.db
+
+.vscode
+.DS_Store
+/typings
+*.d.ts
