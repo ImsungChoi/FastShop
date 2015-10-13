@@ -32,7 +32,7 @@
 						index = 0;
 						$first.css('margin-left', 0 );
 					}
-					console.log(index);
+					// console.log(index);
 				}
 			);
 		});
