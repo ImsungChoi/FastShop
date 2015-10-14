@@ -1,3 +1,4 @@
+/* global _ */
 /* global db */
 /* global app */
 'use strict';
